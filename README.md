@@ -59,8 +59,17 @@ jewelry-webshop-project/
 
 ## Tech & Tools
 - **Design:** Figma  
-- **Documentation:** Markdown / Excel for user stories  
+- **Documentation:** PDF / Excel for user stories  
 - **Project Management:** Task breakdown based on client specification
+
+- ## Project Deliverables
+
+- [Website Structure Diagram (PDF)](Figma_Mockups/Website_Structure_Diagram.pdf)
+- [Homepage Mockup (PDF)](Figma_Mockups/Homepage.pdf)
+- [Product Page Mockup (PDF)](Figma_Mockups/Product_Page.pdf)
+- [Checkout Page Mockup (PDF)](Figma_Mockups/Checkout_Page.pdf)
+- [User Stories and Dependencies (PDF/Excel)](User_Stories.xlsx)
+
 
 ---
 
