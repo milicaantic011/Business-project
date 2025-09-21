@@ -51,19 +51,76 @@ This project encompasses the development of a full-featured international e-comm
 ---
 
 ## Website Structure
+Home
+├── Shop
+│   ├── By Brand
+│   │   ├── TOUS
+│   │   ├── Cartier
+│   │   ├── Tiffany
+│   │   └── Pandora
+│   ├── By Category
+│   │   ├── Rings
+│   │   ├── Necklaces
+│   │   ├── Bracelets
+│   │   ├── Earrings
+│   │   └── Watches
+│   └── By Recipient
+│       ├── Women
+│       ├── Men
+│       └── Kids
+├── Product Details
+│   ├── Gallery
+│   ├── Description
+│   ├── Specifications
+│   └── Reviews
+├── Shopping Cart
+├── Checkout
+│   ├── Shipping Info
+│   ├── Payment (CyberSource)
+│   └── Order Confirmation
+├── User Account
+│   ├── Profile
+│   ├── Orders
+│   ├── Wishlist
+│   └── Settings
+└── Customer Service
+├── Contact
+├── FAQ
+├── Shipping Info
+└── Returns
 
 
 '''
-
-'''
-
 
 ---
 
 ## Tech & Tools
-- **Design:** Figma  
-- **Documentation:** PDF file
-- **Project Management:** Task breakdown based on client specification
+
+- **Frontend:** React/Vue.js
+- **Backend:** Node.js/Java  
+- **Database:** PostgreSQL
+- **Cache:** Redis
+- **Payment:** CyberSource API
+- **Cloud:** Microsoft Azure
+- **AI:** Microsoft AI Foundry
+
+- 
+## Timeline
+
+- **Requirements Gathering**: Week 1-2
+- **Design Phase**: Week 3-4
+- **Development**: Week 5-12
+- **Testing**: Week 13-14
+- **Deployment**: Week 15
+
+- ##  Team
+
+- **Project Manager**
+- **UX/UI Designer**
+- **Frontend Developer**
+- **Backend Developer**
+- **QA Engineer**
+
 
 
 ## License
