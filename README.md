@@ -52,7 +52,7 @@ This project encompasses the development of a full-featured international e-comm
 
 ## Website Structure
 
-'''
+```
 Home
 ├── Shop
 │   ├── By Brand
@@ -91,9 +91,7 @@ Home
 ├── Shipping Info
 └── Returns
 
-
-'''
-
+```
 ---
 
 ## Tech & Tools
