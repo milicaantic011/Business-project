@@ -1,36 +1,56 @@
-# Jewelry Web-Shop Project
+# International Jewelry E-Commerce Platform
 
-## Overview
-This project is a **web-shop design for a global jewelry retailer**, created based on a **technical requirements specification**. The goal is to provide a **clear, user-friendly customer journey** from product selection to purchase.
+A modern web-shop solution for selling jewelry worldwide, featuring multiple luxury brands including TOUS, Cartier, Tiffany, and Pandora.
 
-**Client Description:**  
-An international jewelry company selling brands like TOUS, Cartier, Tiffany, Pandora, and more. The target audience includes men, women, and children.
+---
+
+##  Project Overview
+
+### Client
+International Jewelry Retailer
+
+### Vision
+Create a user-friendly e-commerce platform that provides customers with a seamless journey from product selection to purchase, catering to a diverse international audience including men, women, adults, and children.
 
 ---
 
 ## Project Scope
-- Design a fully functional web-shop for global sales
-- Ensure seamless integration with external **pricing/tax system**
-- Use **CyberSource** for payment processing
-- Provide a user-friendly experience for browsing, selecting, and purchasing products
-- Optimize design for multiple devices (desktop, tablet, mobile)
+
+This project encompasses the development of a full-featured international e-commerce platform specialized for jewelry retail, including:
+
+- Multi-brand jewelry catalog
+- International shopping capabilities
+- Integrated payment processing via CyberSource
+- Responsive design for all devices
+- Multi-language and multi-currency support
 
 ---
 
-## Features
-The web-shop includes, but is not limited to:  
-- **Product Catalog:** Search, filter, and sort by brand, type, price, etc.  
-- **Product Pages:** Detailed descriptions, images, pricing, availability  
-- **Shopping Cart & Checkout:** Integrated with CyberSource for payments  
-- **User Accounts:** Registration, login, order history, wishlist  
-- **Localization:** Prices, taxes, and shipping options per country  
-- **Promotions & Discounts:** Campaign management and coupons  
-- **Support Pages:** FAQ, contact, shipping & returns information  
+## Key Features
 
+### Core Functionality
+- **Product Catalog** - Browse jewelry from multiple luxury brands
+- **Advanced Search & Filtering** - Filter by brand, type, price, material, size
+- **Shopping Cart** - Add, remove, and modify items
+- **Wishlist** - Save items for later purchase
+- **User Accounts** - Personal profiles with order history
+- **Guest Checkout** - Purchase without creating an account
+
+### International Features
+- **Multi-Currency Display** - Prices in local currencies
+- **International Shipping** - Worldwide delivery options
+- **Tax Calculation** - Automated based on destination
+- **Multi-Language Support** - Localized content
+
+### Payment & Security
+- **CyberSource Integration** - Secure payment processing
+- **Multiple Payment Methods** - Credit cards, PayPal, etc.
+- **SSL Encryption** - Secure data transmission
+- **PCI Compliance** - Industry standard security
 
 ---
 
-## Project Structure (Example)
+## Website Structure
 
 
 '''
