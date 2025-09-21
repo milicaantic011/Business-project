@@ -27,13 +27,6 @@ The web-shop includes, but is not limited to:
 - **Promotions & Discounts:** Campaign management and coupons  
 - **Support Pages:** FAQ, contact, shipping & returns information  
 
----
-
-## Project Deliverables
-1. **Website Structure Diagram** – Visual organization of pages and navigation  
-2. **Page Mockups** – Designed in Figma with user interface details  
-3. **User Stories Breakdown** – List of tasks for each page and feature  
-4. **Dependencies** – Highlighting relationships between user stories for development planning  
 
 ---
 
@@ -42,16 +35,6 @@ The web-shop includes, but is not limited to:
 
 '''
 
-jewelry-webshop-project/
-│
-├── Figma_Mockups/ # Folder with page mockups
-│ ├── Homepage.png
-│ ├── Product_Page.png
-│ └── Checkout_Page.png
-├── Website_Structure_Diagram.png # Diagram of website pages
-├── User_Stories.xlsx # User story breakdown with dependencies
-└── README.md # Project documentation
-
 '''
 
 
@@ -59,19 +42,9 @@ jewelry-webshop-project/
 
 ## Tech & Tools
 - **Design:** Figma  
-- **Documentation:** PDF / Excel for user stories  
+- **Documentation:** PDF file
 - **Project Management:** Task breakdown based on client specification
 
-- ## Project Deliverables
-
-- [Website Structure Diagram (PDF)](Figma_Mockups/Website_Structure_Diagram.pdf)
-- [Homepage Mockup (PDF)](Figma_Mockups/Homepage.pdf)
-- [Product Page Mockup (PDF)](Figma_Mockups/Product_Page.pdf)
-- [Checkout Page Mockup (PDF)](Figma_Mockups/Checkout_Page.pdf)
-- [User Stories and Dependencies (PDF/Excel)](User_Stories.xlsx)
-
-
----
 
 ## License
 This project is for **educational and portfolio purposes**.
